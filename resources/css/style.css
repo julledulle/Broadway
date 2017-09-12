@@ -1,9 +1,11 @@
 body {
 	font-family: Helvetica;
+	text-align: center;
 }
 
 h1 {
 	font-size: 70px;
+
 }
 
 h2 {
@@ -25,7 +27,7 @@ p {
 }
 
 .hero {
-	background-image: url(./resources/images/the-flatiron-building.png);
+	background-image: url("/Users/jgufler/git_practice/Broadway/resources/images/the-flatiron-building.png");
 	color: white;
 }
 
@@ -35,6 +37,7 @@ p {
 
 .btn-nav {
 	font-size: 18px;
+	color: white;
 }
 
 .footer {
